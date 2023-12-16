@@ -80,6 +80,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: 90px;
 }
 .gif_container2 {
     display: flex;
