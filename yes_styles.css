@@ -79,12 +79,10 @@ body {
 .gif_container {
     display: flex;
     justify-content: center;
-    align-items: center;
-    
+    align-items: center;   
 }
 .gif_container2 {
     display: flex;
     justify-content: center;
-    align-items: center;
-   
+    align-items: center;   
 }
